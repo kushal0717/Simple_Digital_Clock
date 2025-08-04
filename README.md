@@ -9,9 +9,9 @@ This project is a clean and minimal **digital clock** built with HTML, CSS, and 
 
 ## ✨ Features
 - Live updating digital clock
-- 12-hour or 24-hour format (can be enhanced)
+- 12-hour or 24-hour format 
 - Easy-to-understand codebase for beginners
-- Fully responsive UI using Bootstrap (optional)
+
 
 ## 📂 How to Use
 1. Clone or download this repository
