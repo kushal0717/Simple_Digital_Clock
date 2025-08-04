@@ -1,6 +1,6 @@
 # 🕒 Simple Digital Clock
 
-This project is a clean and minimal **digital clock** built with HTML, CSS, and JavaScript. It dynamically displays the current time in real-time, updating every second.
+This project is a clean and minimal **digital clock** built with HTML, CSS, and JavaScript. It Statically displays the current time in real-time.
 
 ## 🔧 Technologies Used
 - **HTML** – structure
